@@ -1,1 +1,1 @@
-# A poetry website where I put all my poems 
+# A poetry website where I put all the poems I like
